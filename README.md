@@ -8,7 +8,7 @@ I am a student at VSCPI.
 
 How to reach me: VVValchanova23@codingburgas.bg
 
-<img align="right" alt="" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWplcDhvY2hoZ3UxYXJmZ2dxam10YWJoZ3JscGR0dW5nNzFveXRvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" height="250" />
+
 
 <hr>
 
