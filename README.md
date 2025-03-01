@@ -15,9 +15,8 @@ How to reach me: VVValchanova23@codingburgas.bg
 
 ### Languages and technologies I use:
 <div align="center">
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="C++"></code>
-  <code><img height="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" alt="HTML"></code>
-  <code><img height="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_640.png" alt="CSS"></code>
+  <img src="https://skillicons.dev/icons?i=qt,cpp,html,css,js,c"/>
+  
  
 </div>
 
