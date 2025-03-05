@@ -15,7 +15,7 @@ How to reach me: VVValchanova23@codingburgas.bg
 
 ### Languages and technologies I use:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=qt,cpp,html,css,js,c"/>
+  <img src="https://skillicons.dev/icons?i=qt,cpp,html,css,js"/>
   
  
 </div>
